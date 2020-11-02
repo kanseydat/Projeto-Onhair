@@ -1,0 +1,36 @@
+body{
+    background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)) ,url(/img/pexels-nick-demou-1319460.jpg)center/cover no-repeat fixed;
+}
+.login-container{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    
+}
+.login-form-1{
+    padding: 2%;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+    
+}
+.login-form-1 h3{
+    text-align: center;
+    color: #333;
+}
+.login-form-2{
+    padding: 2%;
+    
+    background: #0062cc;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+    
+}
+.login-form-2 h3{
+    text-align: center;
+    }
+.login-container form{
+    padding: 5%;
+    
+}
+
+label{
+    font-family: 'Roboto', sans-serif;
+}
+

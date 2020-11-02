@@ -1,0 +1,119 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+.height {
+    min-height: 100vh;
+}
+.title-underline{
+    width: 200px;
+    height: 5px;
+    margin: 0 auto;
+    /* background: blue!important; */
+}
+
+#header{
+    background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)) ,url(/img/pexels-nick-demou-1319460.jpg)center/cover no-repeat fixed;
+}
+#bannerTítulo{
+    font-size: 70px;
+}
+
+#bannerTexto{
+    font-size: 20px;
+}
+
+#passos{
+    text-shadow: 0.0em 0.0em 0.2em black;
+    font-size: 50px;
+}
+
+#CFbtn{
+    margin-left: 67vh;    
+}
+
+#navText{
+    
+    font-size: 25px;
+}
+#teste{
+    text-align: right;
+    
+}
+
+.height-80 {
+    min-height: 80vh;
+}
+
+.logoSB{
+    background: url(/img/LogoSB.png)center/cover no-repeat;
+    border-radius: 100px;
+    
+}
+
+#SobreNós{
+    padding: 20px;
+}
+
+.bgContato{
+    background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)) ,url(/img/pexels-nick-demou-1319458.jpg)center/cover no-repeat;
+}
+#don{
+    margin-left: 96px;
+}
+#perfil{
+    margin-left: 35px;
+}
+@media screen and (min-width: 350px){
+    #CFbtn{
+        margin-left:15px;
+         
+    }
+}
+@media screen and (min-width: 375px){
+    #CFbtn{
+        margin-left:25px;
+         
+    }
+}
+@media screen and (min-width: 400px){
+    #CFbtn{
+        margin-left: 17vh; 
+    }
+}
+@media screen and (min-width: 479px){
+    #CFbtn{
+        margin-left:75px;
+         
+    }
+}
+@media screen and (min-width: 576px){
+    #CFbtn{
+        margin-left: 120px;
+        
+    }
+}
+
+@media screen and (min-width: 768px){
+    #CFbtn{
+        margin-left: 210px;
+        
+    }
+}
+
+@media screen and (min-width: 992px){
+    #CFbtn{
+        margin-left: 52vh;
+        
+    }
+}
+
+@media screen and (min-width: 1200px){
+    #CFbtn{
+        margin-left: 65vh; 
+    }
+}
+
+
